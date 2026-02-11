@@ -165,7 +165,4 @@ The model successfully captures semantic nuance and emotional context in text da
 ## 👩‍💻 Author
 
 **Dahami Nethsarani**  
-Computer Engineering Graduate | AI & Full-Stack Developer  
-
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-link
+Computer Engineering Graduate | AI & Full-Stack Developer
